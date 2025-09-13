@@ -75,8 +75,7 @@ project/
 ## ✨ Deployment
 You can deploy the template easily using:
 - [GitHub Pages](https://mohamedsayed101.github.io/Html_and_css_tempate-1/)  
-- [Netlify](https://www.netlify.com/)  
-- [Vercel](https://vercel.com/)  
+- [Netlify](https://leonprojec.netlify.app/)  
 
 ---
 
